@@ -1,0 +1,13 @@
+{
+  "resourceManagerName": "UiPath.Activities.WordCounter.Resources.Resources",
+  "activities": [
+    {
+      "fullName": "UiPath.Activities.WordCounter",
+      "shortName": "WordCounter",
+      "displayNameKey": "WordCounter_DisplayName",
+      "descriptionKey": "WordCounter_Description",
+      "categoryKey": "Templates",
+      "viewModelType": "UiPath.Activities.WordCounter.ViewModels.WordCounterViewModel"
+    }
+  ]
+}
